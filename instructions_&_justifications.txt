@@ -1,0 +1,30 @@
+readCSV.py
+	This script opens a connection to a SQLite database. If none exists, it will create one. 
+	After successfully connected, it will check whether a "logs" table exists or not. If not, create one.
+	Then the "task_data.csv" is read and converted into a dataframe by using pandas library.
+	This dataframe is then inserted into the database.
+	
+serveCSV.py
+	This script starts a web application with its main endpoint displays all the data by collecting them from the database.
+	The data displayed by HTML page is generated dynamically with the help of jinja templating (render_template())
+	Every time any request is made to the web application, a log entry is saved into table "logs" in the database.
+	
+	
+Instructions:
+	1. Run readCSV.py. "task_data.csv" must be in the same folder.
+	2. Run serveCSV.py. It may take a few seconds until it is ready.
+	3. Open 127.0.0.1:5000 in your browser. Or your_local_IP:5000 to open the web application from another computer
+	4. The main index will show the data in a table. Accessing /logs will also show the logs (Note: accessing it will create another log entry)
+	5. To browse the database, DB Browser for SQLite can be used.
+	
+Python libraries:
+	sqlite3
+	pandas
+	flask
+	
+	
+Justifications:
+	- SQLite is chosen as the database because it is a relational database that is built into Python
+	- pandas is used to read the csv file because it is easier if further development requires the input data to be cleaned/filtered/aggregated first before being persisted into database
+	- flask for the web application framework is chosen because it is lightweight and with its templating feature really helps to display the data dynamically.
+	- Other main reason why I chose these libraries because I worked with them often during my work experience and that is why I have decent knowledge on them.

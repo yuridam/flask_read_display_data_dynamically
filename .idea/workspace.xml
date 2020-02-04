@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bc87866-babd-47aa-b18b-167f29eee3d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XIXFngPonPFkAYgkedBpa8erfe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yuri Adam\PycharmProjects\playground\read" />
+      <recent name="C:\Users\Yuri Adam\PycharmProjects\playground\templates" />
+      <recent name="C:\Users\Yuri Adam\PycharmProjects\playground" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.serveCSV">
+    <configuration name="readCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmartSteelTechnologies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmartSteelTechnologies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yuri Adam\PycharmProjects\playground\read\readCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serveCSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SmartSteelTechnologies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serveCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.readCSV" />
+      <item itemvalue="Python.serveCSV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.serveCSV" />
+        <item itemvalue="Python.readCSV" />
+        <item itemvalue="Python.readCSV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc87866-babd-47aa-b18b-167f29eee3d2" name="Default Changelist" comment="" />
+      <created>1580734480548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580734480548</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1580783721050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580783721050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2214" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580779272970">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2214" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580779272970" />
+    <state x="2414" y="32" key="CommitChangelistDialog2" timestamp="1580783719836">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2414" y="32" key="CommitChangelistDialog2/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783719836" />
+    <state x="1984" y="3" key="DiffContextDialog" timestamp="1580783491105">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="1984" y="3" key="DiffContextDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783491105" />
+    <state x="2540" y="177" key="FileChooserDialogImpl" timestamp="1580783475399">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2540" y="177" key="FileChooserDialogImpl/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783475399" />
+    <state x="2601" y="329" key="Github.ShareDialog" timestamp="1580783682882">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2601" y="329" key="Github.ShareDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783682882" />
+    <state x="2546" y="141" key="Github.UntrackedFilesDialog" timestamp="1580783696331">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2546" y="141" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783696331" />
+    <state width="1659" height="275" key="GridCell.Tab.0.bottom" timestamp="1580783795992">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783795992" />
+    <state width="1659" height="275" key="GridCell.Tab.0.center" timestamp="1580783795991">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="275" key="GridCell.Tab.0.center/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783795991" />
+    <state width="1659" height="275" key="GridCell.Tab.0.left" timestamp="1580783795991">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="275" key="GridCell.Tab.0.left/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783795991" />
+    <state width="1659" height="275" key="GridCell.Tab.0.right" timestamp="1580783795992">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="275" key="GridCell.Tab.0.right/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783795992" />
+    <state width="1659" height="340" key="GridCell.Tab.1.bottom" timestamp="1580779226486">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580779226486" />
+    <state width="1659" height="340" key="GridCell.Tab.1.center" timestamp="1580779226486">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.center/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580779226486" />
+    <state width="1659" height="340" key="GridCell.Tab.1.left" timestamp="1580779226486">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.left/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580779226486" />
+    <state width="1659" height="340" key="GridCell.Tab.1.right" timestamp="1580779226486">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.right/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580779226486" />
+    <state x="2551" y="146" key="RollbackChangesDialog" timestamp="1580783455574">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2551" y="146" key="RollbackChangesDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783455574" />
+    <state x="2352" y="168" key="Vcs.Push.Dialog.v2" timestamp="1580783729503">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2352" y="168" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783729503" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580734606399">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.-75.1680.1020@0.0.1920.1050" timestamp="1580734606399" />
+    <state x="2450" y="227" key="git4idea.merge.GitPullDialog" timestamp="1580783503296">
+      <screen x="1920" y="-75" width="1680" height="1020" />
+    </state>
+    <state x="2450" y="227" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.-75.1680.1020@1920.-75.1680.1020" timestamp="1580783503296" />
+  </component>
+</project>
